@@ -1,0 +1,84 @@
+Ejercicio11/Main.java
+ Ejercicio11.Main
+Ejercicio5/Main.java
+ Ejercicio5.Main
+Ejercicio8/Semana.java
+ Ejercicio8.Semana
+Ejercicio10/Frase.java
+ Ejercicio10.Frase
+Ejercicio9/Main.java
+ Ejercicio9.Main
+Ejercicio18/Serie.java
+ Ejercicio18.Serie
+Ejercicio17/Lavadora.java
+ Ejercicio17.Lavadora
+Ejercicio16/Main.java
+ Ejercicio16.Main
+Ejercicio7/Terminal.java
+ Ejercicio7.Terminal
+Ejercicio3/Terminal.java
+ Ejercicio3.Terminal
+Ejercicio11/Frase.java
+ Ejercicio11.Frase
+Ejercicio2/Main.java
+ Ejercicio2.Main
+Ejercicio14/Main.java
+ Ejercicio14.Main
+Ejercicio1/Comparador.java
+ Ejercicio1.Comparador
+Ejercicio15/Menu.java
+ Ejercicio15.Menu
+Ejercicio17/Television.java
+ Ejercicio17.Television
+Ejercicio18/Entregable.java
+ Ejercicio18.Entregable
+Ejercicio7/Main.java
+ Ejercicio7.Main
+Ejercicio11/Consola.java
+ Ejercicio11.Consola
+Ejercicio6/Main.java
+ Ejercicio6.Main
+Ejercicio10/Consola.java
+ Ejercicio10.Consola
+Ejercicio12/Main.java
+ Ejercicio12.Main
+Ejercicio16/Persona.java
+ Ejercicio16.Persona
+Ejercicio12/ComparadorPalabras.java
+ Ejercicio12.ComparadorPalabras
+Ejercicio16/Consola.java
+ Ejercicio16.Consola
+Ejercicio18/Main.java
+ Ejercicio18.Main
+Ejercicio17/Main.java
+ Ejercicio17.Main
+Ejercicio4/Iva.java
+ Ejercicio4.Iva
+Ejercicio2/Comparador.java
+ Ejercicio2.Comparador
+Ejercicio9/Texto.java
+ Ejercicio9.Texto
+Ejercicio10/Main.java
+ Ejercicio10.Main
+Ejercicio18/VideoJuego.java
+ Ejercicio18.VideoJuego
+Ejercicio17/Eletrodomestico.java
+ Ejercicio17.Eletrodomestico
+Ejercicio15/Main.java
+ Ejercicio15.Main
+Ejercicio3/Main.java
+ Ejercicio3.Main
+Ejercicio9/Consola.java
+ Ejercicio9.Consola
+Ejercicio3/Circulo.java
+ Ejercicio3.Circulo
+Ejercicio13/Main.java
+ Ejercicio13.Main
+Ejercicio8/Main.java
+ Ejercicio8.Main
+Ejercicio7/MayorQueCero.java
+ Ejercicio7.MayorQueCero
+Ejercicio1/Main.java
+ Ejercicio1.Main
+Ejercicio4/Main.java
+ Ejercicio4.Main
